@@ -1,5 +1,4 @@
-![VaaniType logo]([image-url](https://raw.githubusercontent.com/pawan-maurya/VaaniType/refs/heads/main/vaanilogo.png))
-
+![VaaniType Logo](vaanilogo.png)
 
 # 🎙️ VaaniType
 
