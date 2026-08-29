@@ -1,8 +1,18 @@
 ![VaaniType Logo](vaanilogo.png)
 
-# 🎙️ VaaniType
+# Leave fingers behind and speak your mind - Free with VaaniType.
 
-> **Next-Gen Live Speech-to-Text Dictation Engine for Windows powered by Google Gemini 3.5 Transcribe Live.**
+<h3 align="center">🎙️ VaaniType — Next-Gen Live AI Voice Dictation for Windows</h3>
+
+<p align="center">
+  <em>Powered by Google Gemini 3.5 Transcribe Live Engine</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue?style=flat-square" alt="Platform">
+  <img src="https://img.shields.io/badge/Version-v0.0.1-brightgreen?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/License-MIT-orange?style=flat-square" alt="License">
+</p>
 
 ---
 
