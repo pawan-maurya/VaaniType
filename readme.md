@@ -1,6 +1,6 @@
 ![VaaniType Logo](vaanilogo.png)
 
-# Leave fingers behind and speak your mind - Free with VaaniType.
+# Leave fingers behind and speak your mind <p> <em> - Free with VaaniType. </em> </p>
 
 <h3 align="center">🎙️ VaaniType — Next-Gen Live AI Voice Dictation for Windows</h3>
 
