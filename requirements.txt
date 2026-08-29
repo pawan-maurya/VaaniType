@@ -1,0 +1,8 @@
+PyQt6
+sounddevice
+numpy
+pynput
+google-genai
+python-dotenv
+pyperclip
+pyinstaller
