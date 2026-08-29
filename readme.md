@@ -1,3 +1,6 @@
+![VaaniType logo]([image-url](https://raw.githubusercontent.com/pawan-maurya/VaaniType/refs/heads/main/vaanilogo.png))
+
+
 # 🎙️ VaaniType
 
 > **Next-Gen Live Speech-to-Text Dictation Engine for Windows powered by Google Gemini 3.5 Transcribe Live.**
