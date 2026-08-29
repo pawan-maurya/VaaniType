@@ -14,6 +14,11 @@
   <img src="https://img.shields.io/badge/License-MIT-orange?style=flat-square" alt="License">
 </p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/HiPawan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
+
+
 ---
 
 ## ✨ Features
@@ -42,6 +47,8 @@
 - **Alt + V** (Customizable in Settings)
 - **Right-Click** on the widget to open Settings & Guide.
 
+---
+<a href="https://www.buymeacoffee.com/HiPawan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 ---
 
 ## 📜 License
