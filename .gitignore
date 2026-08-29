@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+build/
+dist/
+Output_Installer/
+*.spec
+config.json
+.env
+.vscode/
